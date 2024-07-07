@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Afthab</h1>
 <h3 align="center">I'm a passionate computer science student pursuing my B.Tech with a specialization in Computer Science. I have a keen interest in software development, artificial intelligence, and web development.</h3>
+
 - 🔭 My team and I developed a online voiting system with biometric authentication.<br/>
+
 - 🌱 I’m currently learning react js and mongo db.</br>
-- 📫 How to reach me https://www.linkedin.com/in/afthab-c-n-342b11197/ or afthabcm@gmail.com Feel free to <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; explore my repositories and reach out to me for collaborations or just to say hi! 😊
+
+- 📫 How to reach me https://www.linkedin.com/in/afthab-c-n-342b11197/ or afthabcm@gmail.com Feel free to explore my repositories &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and reach out to me for collaborations or just to say hi! 😊
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afthab18&label=Profile%20views&color=0e75b6&style=flat" alt="afthab18" /> </p>
